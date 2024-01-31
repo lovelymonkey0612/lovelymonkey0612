@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone 👋, Welcome to My Profile!</h1>
+<h1 align="center">Hello Everyone 👋, Welcome to My Profile!</h1>
 <h2 align="center">Senior Crypto & Full-stack Developer</h2>
 <br>
   <p>
