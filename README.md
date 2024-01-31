@@ -1,5 +1,5 @@
 <h1 align="center">Hello Everyone 👋, Welcome to My Profile!</h1>
-<h2 align="center">Senior Crypto & Full-stack Developer</h2>
+<h2 align="center">Senior Crypto & Full-Stack Developer</h2>
 <br>
   <p>
  &nbsp;Passionate, Creative, and Efficient Senior Web3 & Cryptocurrency Engineer with over 3+ years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. 
