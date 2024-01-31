@@ -7,15 +7,11 @@
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
 </p>
 <br>
-
-<h1 align="center"></h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<br/>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EyeInGod&theme=dark" alt="GitHub Streak" /></a>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
