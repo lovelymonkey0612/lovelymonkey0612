@@ -1,7 +1,6 @@
 <h1 align="center">Hello Everyone 👋, Welcome to My Profile!</h1>
 <h2 align="center">Senior Crypto & Full-Stack Developer</h2>
-<br>
-  <p>
+<p>
  &nbsp;Passionate, Creative, and Efficient Senior Web3 & Cryptocurrency Engineer with over 3+ years of experience in BlockChain and of over 7 years in web, mobile and desktop applications design, development, and maintenance. 
  Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using web3 and Solidity.
 Have worked in all phases of the project life cycle, using a wide variety of tools and frameworks.
@@ -10,6 +9,7 @@ Have worked in all phases of the project life cycle, using a wide variety of too
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
